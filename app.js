@@ -23,7 +23,7 @@ if(localStorage.hh){
 counter.innerText = `${hh}:${mm}:${ss}`
 
 var stopwatch
-const time = 10 
+const time = 1000 
 
 
 //iniciando contador
